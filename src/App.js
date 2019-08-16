@@ -1,5 +1,6 @@
 import { hot } from 'react-hot-loader/root';
 import React from 'react';
+import './app.css';
 
 function Square(props) {
   return (
